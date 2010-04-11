@@ -1,4 +1,4 @@
-pytempmail Copyright matthewrobertbell@gmail.com 2010. GPL v2.
+pytempmail Copyright Matthew Bell (matthewrobertbell [aaat] gmail dat com) 2010. GPL v2.
 
 redis - http://code.google.com/p/redis/
 bottle - http://bottle.paws.de/
